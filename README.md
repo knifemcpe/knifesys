@@ -1,4 +1,7 @@
-# knifesys
-Knifesys - core for mcpe servers !
+#Knifesys
 
-Core in dev. progress :)
+Knifesys for mcpe server core with special generation and the best optimization!
+
+Suitable at the moment for mcpe versions 1.0.3 and 1.0.4
+
+The core group in VK: https://vk.com/kcorepe
